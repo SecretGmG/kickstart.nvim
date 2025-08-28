@@ -14,7 +14,7 @@ return {
       auto_scroll = true,
       insert_mappings = true,
       persist_size = true,
-      direction = 'horizontal',
+      direction = 'float',
     }
   end,
 }
